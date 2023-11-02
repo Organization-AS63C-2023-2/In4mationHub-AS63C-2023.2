@@ -1,6 +1,6 @@
 # Inf4mation HUB - Desenvolvimento Ágil 2023 (Segundo Semestre)
 
-![Inf4mation HUB Logo]()
+![Inf4mation HUB Logo](https://github.com/Organization-AS63C-2023-2/In4mationHub-AS63C-2023.2/blob/main/image.png)
 
 ## Membros do Grupo
 - [Sérgio Alexandre](https://github.com/Serg-Ale)
